@@ -1,1 +1,1 @@
-# Hackathon2024
+# IIITH-Hackathon2024
